@@ -1,4 +1,4 @@
 hansnauta.com
 =============
 
-Personal website
+Personal website of [Hans Nauta](https://hansnauta.com)
